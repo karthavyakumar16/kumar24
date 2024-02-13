@@ -1,5 +1,5 @@
 public class Kumar {
 
     public String fatherName;
-    public String schoolName;
+    public String motherName;
 }
