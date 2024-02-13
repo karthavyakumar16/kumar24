@@ -1,14 +1,19 @@
 public class Student {
 
-        public String name;
-        public String schoolName;
-        public String motherName;
+
         public String mobileNo;
-        public String fatherName;
+
+    public Student(String mobileNo, String fatherName, String className) {
+        this.mobileNo = mobileNo;
+        this.fatherName = fatherName;
+        this.className = className;
+    }
+
+    public String fatherName;
         public String className;
 
         public String getSchoolName() {
-        return schoolName;
+        return "hello";
     }
     }
 
