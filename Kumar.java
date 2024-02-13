@@ -1,5 +1,5 @@
 public class Kumar {
 
-    public String name;
-    public String mobile;
+    public String fatherName;
+    public String schoolName;
 }
